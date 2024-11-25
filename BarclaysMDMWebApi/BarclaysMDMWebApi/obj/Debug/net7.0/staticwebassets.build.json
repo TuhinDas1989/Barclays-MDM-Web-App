@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YPnNssiD75bvbCv/xxcWPDLtpUxL+BUEr4CJCY6vgiQ=",
+  "Source": "BarclaysMDMWebApi",
+  "BasePath": "_content/BarclaysMDMWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

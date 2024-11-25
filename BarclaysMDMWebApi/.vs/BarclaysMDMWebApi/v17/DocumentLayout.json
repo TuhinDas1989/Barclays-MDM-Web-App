@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3F9CE2-6735-4A7A-A030-37F6F67C1851}|BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3F9CE2-6735-4A7A-A030-37F6F67C1851}|BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj|solutionrelative:barclaysmdmwebapi.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\datarepository\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\datarepository\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\barclaysmdmwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\barclaysmdmwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3F9CE2-6735-4A7A-A030-37F6F67C1851}|BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi.test\\barclaysmdmwebapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D3F9CE2-6735-4A7A-A030-37F6F67C1851}|BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj|solutionrelative:barclaysmdmwebapi.test\\barclaysmdmwebapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\barclaysmdmwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\barclaysmdmwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\models\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\models\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|d:\\tutorial and practices\\barclaysmdmwebapi\\barclaysmdmwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF73650-998F-40C3-AD81-92081EDF1F5E}|BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj|solutionrelative:barclaysmdmwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:08:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi.Test\\UnitTest.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi.Test\\UnitTest.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi.Test\\UnitTest.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi.Test\\UnitTest.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAEwHkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:59:16.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwGAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:15:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Models\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\Models\\TaskDTO.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Models\\TaskDTO.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi\\Models\\TaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:09:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "BarclaysMDMWebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:51:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\Program.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Program.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:08:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepo.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\DataRepository\\TaskRepo.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\DataRepository\\TaskRepo.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\DataRepository\\TaskRepo.cs",
+              "RelativeToolTip": "BarclaysMDMWebApi\\DataRepository\\TaskRepo.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:10:36.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarclaysMDMWebApi.csproj",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "RelativeToolTip": "BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T09:08:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarclaysMDMWebApi.Test",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj",
+              "RelativeToolTip": "BarclaysMDMWebApi.Test\\BarclaysMDMWebApi.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T10:59:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarclaysMDMWebApi",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "RelativeToolTip": "BarclaysMDMWebApi\\BarclaysMDMWebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T00:52:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\appsettings.json",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\appsettings.json",
+              "RelativeToolTip": "BarclaysMDMWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:51:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Tutorial and Practices\\BarclaysMDMWebApi\\BarclaysMDMWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BarclaysMDMWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:51:24.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

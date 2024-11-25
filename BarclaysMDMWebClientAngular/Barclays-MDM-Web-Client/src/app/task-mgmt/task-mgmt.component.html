@@ -1,0 +1,30 @@
+<div>
+    <button mat-raised-button (click)="addTask()" class="demo-add-button">
+        Add New Task
+    </button>
+</div>
+<div class="datadivtable">
+    <table mat-table [dataSource]="tasks" class="mat-elevation-z8" matSort>
+        <ng-container matColumnDef="name">
+          <th mat-header-cell *matHeaderCellDef width="35%"> Name </th>
+          <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+        </ng-container>
+        <ng-container matColumnDef="priority">
+          <th mat-header-cell *matHeaderCellDef width="15%"> Priority </th>
+          <td mat-cell *matCellDef="let element"> {{element.priority}} </td>
+        </ng-container>
+        <ng-container matColumnDef="status">
+          <th mat-header-cell *matHeaderCellDef width="25%"> Status </th>
+          <td mat-cell *matCellDef="let element"> {{element.status}} </td>
+        </ng-container>
+        <ng-container matColumnDef="action">
+            <th mat-header-cell *matHeaderCellDef width="25%"> Action </th>
+            <td mat-cell *matCellDef="let element">
+                <button mat-raised-button (click)="editTask(element)" class="editButton"><mat-icon>edit</mat-icon></button>
+                <button mat-raised-button (click)="deleteTask(element)" *ngIf="element.status == 'Completed'" class="deleteButton"><mat-icon>delete</mat-icon></button>
+            </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>

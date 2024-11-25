@@ -1,0 +1,24 @@
+<h2 mat-dialog-title>{{headerText}}</h2>
+<mat-dialog-content [formGroup]="form">      
+  <input type="hidden" formControlName="taskId" [value]="" />
+  <mat-form-field>
+    <mat-label>Task Name</mat-label>
+    <input type="text" matInput formControlName="taskName" [value]="" />
+    <mat-error *ngIf="form.value.taskName.required">Task Name is required.</mat-error>
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Priority</mat-label>
+    <input type="number" matInput formControlName="taskPriority" min="1" max="10" [value]="" />
+    <mat-error *ngIf="form.value.taskPriority.required">Task Priority is required.</mat-error>
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Status</mat-label>
+    <mat-select formControlName="taskStatus">
+        <mat-option *ngFor="let status of statusList" [value]="status.value">{{status.text}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="save()" [disabled]="!form.valid">Save</button>
+  <button mat-button (click)="close()">Close</button>
+</mat-dialog-actions>

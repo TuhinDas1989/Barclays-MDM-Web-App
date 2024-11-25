@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BarclaysMDMWebApp.Models.TaskDTO>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Task Management";
+}
+<div class="text-center">
+    <h2>Master Data Management Tasks</h2>
+</div>
+<div class="link-container-2">
+    <a href="@Url.Action("AddEdit", "Task")" style="text-decoration: none;">Add New Task</a>
+</div>
+<div class="container-fluid table-container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="width: 35%;">Name</th>
+                <th style="width: 20%;">Priority</th>
+                <th style="width: 25%;">Status</th>
+                <th style="width: 20%;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var task in Model)
+            {
+                <tr>
+                    <td>@task.Name</td>
+                    <td>@task.Priority</td>
+                    <td>@task.Status</td>
+                    <td>
+                        <a href="@Url.Action("AddEdit", "Task", new { id = task.Id })" style="text-decoration: none;">Modify</a>
+                        &nbsp;
+                        @if (task.Status.ToUpper() == "COMPLETED")
+                        {
+                            <a href="@Url.Action("Delete", "Task", new { id = task.Id })" class="deletetask" style="text-decoration: none;">Delete</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

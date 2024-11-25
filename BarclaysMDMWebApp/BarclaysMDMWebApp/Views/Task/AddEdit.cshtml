@@ -1,0 +1,41 @@
+﻿@model BarclaysMDMWebApp.Models.TaskDTO
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = Model.Id == 0 ? "Add New Task" : "Modify Task";
+}
+<div class="text-center">
+    <h2>@(Model.Id == 0 ? "Add New Task" : "Modify Task")</h2>
+</div>
+<div class="link-container">
+    <a href="@Url.Action("List", "/Task")" style="text-decoration: none;">Back to Tasks</a>
+</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-container">
+        <form method="post">
+            <div class="form-group" style="padding-bottom: 10px;">
+                <label for="Name">Task Name</label>
+                <input type="text" id="Name" name="Name" class="form-control" value="@Model.Name" required />
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "vaidation"})
+            </div>
+            <div class="form-group" style="padding-bottom: 10px;">
+                <label for="Priority">Priority</label>
+                <input type="number" id="Priority" name="Priority" class="form-control" value="@Model.Priority" min="1" max="10" />
+                @Html.ValidationMessageFor(m => m.Priority, "", new { @class = "vaidation" })
+            </div>
+            <div class="form-group" style="padding-bottom: 10px;">
+                <label for="Status">Status</label>
+                <select id="Status" name="Status" class="form-control">
+                    <option value="Not Started" @(Model.Status == "Not Started" ? "selected" : "")>Not Started</option>
+                    <option value="In Progress" @(Model.Status == "In Progress" ? "selected" : "")>In Progress</option>
+                    <option value="Completed" @(Model.Status == "Completed" ? "selected" : "")>Completed</option>
+                </select>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <button type="reset" class="btn btn-primary">Reset</button>
+            </div>
+        </form>
+    </div>
+}

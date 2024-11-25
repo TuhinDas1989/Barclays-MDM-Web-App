@@ -1,0 +1,35 @@
+.page-wrapper {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.sticky-header {
+    flex-grow: 0;
+    min-height: 60px;
+    border-bottom: 20px solid #8080800b;
+    border-bottom-width: medium;
+}
+
+.content-wrapper {
+    flex-grow: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex-grow: 1;
+    overflow-y: scroll;
+}
+
+.footer {
+    min-height: 60px;
+    flex-grow: 0;
+    size: 13px;
+    border-top: 20px solid #8080800b;
+    border-top-width: medium;
+}

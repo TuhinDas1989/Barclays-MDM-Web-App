@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AA1B8D-C046-4E30-BB17-3BBF8FA4E4E9}|BarclaysMDMWebApp.Test\\BarclaysMDMWebApp.Test.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AA1B8D-C046-4E30-BB17-3BBF8FA4E4E9}|BarclaysMDMWebApp.Test\\BarclaysMDMWebApp.Test.csproj|solutionrelative:barclaysmdmwebapp.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|solutionrelative:barclaysmdmwebapp\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|solutionrelative:barclaysmdmwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|solutionrelative:barclaysmdmwebapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|solutionrelative:barclaysmdmwebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|d:\\tutorial and practices\\barclays-mdm-web-app\\barclaysmdmwebapp\\barclaysmdmwebapp\\views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EB3CA8A-09DE-4797-9E25-267920960B27}|BarclaysMDMWebApp\\BarclaysMDMWebApp.csproj|solutionrelative:barclaysmdmwebapp\\views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp\\Program.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Program.cs",
+              "RelativeToolTip": "BarclaysMDMWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:06:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "BarclaysMDMWebApp\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:06:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp.Test\\UnitTest.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp.Test\\UnitTest.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp.Test\\UnitTest.cs",
+              "RelativeToolTip": "BarclaysMDMWebApp.Test\\UnitTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:57:16.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BarclaysMDMWebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T10:49:39.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "BarclaysMDMWebApp\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:44:17.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Views\\Task\\List.cshtml",
+              "RelativeDocumentMoniker": "BarclaysMDMWebApp\\Views\\Task\\List.cshtml",
+              "ToolTip": "D:\\Tutorial and Practices\\Barclays-MDM-Web-App\\BarclaysMDMWebApp\\BarclaysMDMWebApp\\Views\\Task\\List.cshtml",
+              "RelativeToolTip": "BarclaysMDMWebApp\\Views\\Task\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T01:53:33.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
